@@ -1,0 +1,15 @@
+G:\GeekBrains\КР\Task\bin\Debug\net6.0\Task.exe
+G:\GeekBrains\КР\Task\bin\Debug\net6.0\Task.deps.json
+G:\GeekBrains\КР\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+G:\GeekBrains\КР\Task\bin\Debug\net6.0\Task.dll
+G:\GeekBrains\КР\Task\bin\Debug\net6.0\Task.pdb
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.dll
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\refint\Task.dll
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.pdb
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+G:\GeekBrains\КР\Task\obj\Debug\net6.0\ref\Task.dll
